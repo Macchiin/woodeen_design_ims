@@ -1,10 +1,10 @@
 # Contributors
 
-Thank you to all the people who have contributed to Wooden Design IMS!
+Thank you to all the people who have contributed to Woodeen Design IMS!
 
 ## 🏆 Core Contributors
 
-- **[Your Name]** - *Project Creator & Maintainer* - [@yourusername](https://github.com/yourusername)
+- **[Macchiin]** - *Project Creator & Maintainer* - [@Macchiin](https://github.com/Macchiin)
 
 ## 🤝 Contributors
 
@@ -12,9 +12,9 @@ Thank you to all the people who have contributed to Wooden Design IMS!
 
 ## 🙏 Special Thanks
 
-- The wooden design industry for inspiration
+- The Woodeen Design for inspiration
 - Open source community for tools and libraries
-- All beta testers and early adopters
+- All beta testers and supervisors
 
 ---
 
@@ -28,8 +28,4 @@ If you've contributed to this project, feel free to add yourself to this list:
 2. Add your name to the Contributors section
 3. Submit a pull request
 
-**Format:**
-```
-- **[Your Name]** - *Contribution description* - [@yourusername](https://github.com/yourusername)
-```
 
