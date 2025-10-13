@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Macchiin** - *Inventory Management System* - [Macchiin](https://github.com/Macchiin)
 
 ## 🙏 Acknowledgments
 
@@ -212,8 +212,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in this repository.
+For support, email nalomalas12@gmail.com or create an issue in this repository.
 
 ---
 
-**Made with ❤️ for the wooden design industry**
+**Made with ❤️ for the woodeen design industry**
