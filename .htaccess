@@ -1,0 +1,15 @@
+# C:\xampp\htdocs\wooden_design_ims\.htaccess (FINAL FIX FOR create_admin_user.php ACCESS)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Define the project's base path for the rewrite conditions
+    # This should be the path from your DocumentRoot (htdocs) to your project folder
+    # For http://localhost/wooden_design_ims/, this is /wooden_design_ims
+    RewriteCond %{REQUEST_URI} ^/wooden_design_ims/create_admin_user\.php$ [NC,OR]
+    RewriteCond %{REQUEST_URI} ^/wooden_design_ims/create_admin_user\.php/.*$ [NC]
+    RewriteRule ^ - [L] # If the above conditions match, stop processing rules
+
+    # Otherwise, redirect all requests to the public/ directory
+    RewriteRule ^$ public/ [L]
+    RewriteRule (.*) public/$1 [L]
+</IfModule>

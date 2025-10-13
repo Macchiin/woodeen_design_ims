@@ -1,0 +1,15 @@
+# C:\xampp\htdocs\wooden_design_ims\public\.htaccess
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # IMPORTANT: This RewriteBase should be the path from your htdocs to the public folder.
+    # For http://localhost/wooden_design_ims/public/..., it should be /wooden_design_ims/public/
+    RewriteBase /wooden_design_ims/public/
+
+    # If the requested path is a real file (-f) or a real directory (-d),
+    # then stop processing rewrite rules and serve that file/directory directly.
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    # Otherwise, rewrite the URL to index.php and pass the original path as a _url parameter.
+    RewriteRule ^(.*)$ index.php?_url=$1 [QSA,L]
+</IfModule>
