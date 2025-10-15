@@ -1,4 +1,4 @@
-# Wooden Design Inventory Management System
+# Woodeen Design Inventory Management System
 
 A comprehensive web-based inventory management system designed specifically for wooden design businesses. Built with PHP, MySQL, and modern web technologies.
 
