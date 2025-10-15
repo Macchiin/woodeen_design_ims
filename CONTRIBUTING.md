@@ -1,6 +1,6 @@
-# Contributing to Wooden Design IMS
+# Contributing to Woodeen Design IMS
 
-Thank you for your interest in contributing to the Wooden Design Inventory Management System! This document provides guidelines and information for contributors.
+Thank you for your interest in contributing to the Woodeen Design Inventory Management System! This document provides guidelines and information for contributors.
 
 ## 🤝 How to Contribute
 
